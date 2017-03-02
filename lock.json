@@ -1,0 +1,13 @@
+{
+  "memo": "c47aadb8a7dade51d2e7a7ce5f5fb4088c6cec8422b9fe2bdeca219166e35a09",
+  "projects": [
+    {
+      "name": "github.com/fatih/astrewrite",
+      "branch": "master",
+      "revision": "9b34aed93587c369be3810b844a2f3eb6c25d2a9",
+      "packages": [
+        "."
+      ]
+    }
+  ]
+}
